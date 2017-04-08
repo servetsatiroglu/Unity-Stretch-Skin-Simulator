@@ -70,7 +70,7 @@ public class MeshBuid : MonoBehaviour
         vertices[23] = new Vector3( 4, 8, 0);
         vertices[24] = new Vector3( 8, 8, 0);
 
-        //indexs
+        //indices
 
         int[] triangles = new int[96]{
             0,5,6,
