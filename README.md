@@ -1,5 +1,5 @@
-# Stretch-Skin-Simulater
-Human Stretch and Shrink Skin Simulater
+# Stretch-Skin-Simulator
+Human Stretch and Shrink Skin Simulator
 
 
 Human skin has been tried to be likened to the resulting physical movements of the interactions.
